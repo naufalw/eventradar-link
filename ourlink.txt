@@ -1,0 +1,5 @@
+React Native:
+https://github.com/naufalw/eventRadar-RN
+
+NextJS Backend:
+https://github.com/naufalw/eventradar
